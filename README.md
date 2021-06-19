@@ -7,7 +7,7 @@ A curated list of awesome academic researches and industrial materials about Art
 | [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua |
 | **USA** | [Ryan Huang](https://www.cs.jhu.edu/~huang/), JHU | [Yingnong Dang](https://scholar.google.com.hk/citations?user=InqtwxcAAAAJ&hl=en), Microsoft ||
 | **Europe** | [Odej Kao](https://www.cit.tu-berlin.de/kao/), TU Berlin |||
-| **Australia** | [Hongyu Zhang](http://hongyujohn.github.io/) |||
+| **Australia** | [Hongyu Zhang](http://hongyujohn.github.io/), UON |||
 
 
 ## Industrial resources
@@ -21,7 +21,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Moogsoft] [What is AIOps?](https://www.moogsoft.com/resources/aiops/guide/everything-aiops/)
 
 ### Tools
-- [**Log Analytics**] (LogPAI)(https://github.com/logpai)
+- [**Log Analytics**] [LogPAI](https://github.com/logpai)
+- [**Outlier Detection**] [PyOD](https://github.com/yzhao062/pyod)
 - [**Monitoring**] [Datadog](https://www.datadoghq.com/)
 - [**Fault Injection**] [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 - [**Fault Injection**] [ChaosBlade](https://github.com/chaosblade-io/chaosblade)
@@ -49,3 +50,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ICSE'19] [An empirical investigation of incident triage for online service systems](https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00020)
 - [WWW'19] [Outage Prediction and Diagnosis for Cloud Service Systems](https://dl.acm.org/doi/10.1145/3308558.3313501)
 
+### Failure Prediction
+- [OSDI'20] [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy)
+
+### Failure Diagnosis
+- [NSDI'20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
