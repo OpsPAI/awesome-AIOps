@@ -5,7 +5,9 @@ A curated list of awesome academic researches and industrial materials about Art
 | China (& HK SAR) | |||
 | :---------| :------ | :------ | :------ |
 | [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua |
-| **USA** ||||
+| **USA** | [Ryan Huang](https://www.cs.jhu.edu/~huang/), JHU | [Yingnong Dang](https://scholar.google.com.hk/citations?user=InqtwxcAAAAJ&hl=en), Microsoft ||
+| **Europe** | [Odej Kao](https://www.cit.tu-berlin.de/kao/), TU Berlin |||
+| **Australia** | [Hongyu Zhang](http://hongyujohn.github.io/) |||
 
 
 ## Industrial resources
@@ -35,15 +37,15 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE'20] [Towards intelligent incident management: why we need it and how we make it](https://dl.acm.org/doi/abs/10.1145/3368089.3417055)
 - [ICSE'19] [AIOps: Real-World Challenges and Research Innovations](https://ieeexplore.ieee.org/document/8802836)
 
-
-
 ### Anomaly/Failure Detection
 - [KDD'19] [Time-Series Anomaly Detection Service at Microsoft](https://dl.acm.org/doi/10.1145/3292500.3330680)
 
 ### Incident/Alarm management
 - [ESEC/FSE'20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
 - [ESEC/FSE'20] [Efficient incident identification from multi-dimensional issue reports via meta-heuristic search](https://dl.acm.org/doi/abs/10.1145/3368089.3409741)
+- [ICSE'20] [Understanding and Handling Alert Storm for Online Service Systems](https://dl.acm.org/doi/10.1145/3377813.3381363)
+- [ESEC/FSE'20] [Efficient incident identification from multi-dimensional issue reports via meta-heuristic search](https://dl.acm.org/doi/abs/10.1145/3368089.3409741)
+- [ESEC/FSE'20] [Real-time incident prediction for online service systems](https://dl.acm.org/doi/abs/10.1145/3368089.3409672)
 - [ICSE'19] [An empirical investigation of incident triage for online service systems](https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00020)
 - [WWW'19] [Outage Prediction and Diagnosis for Cloud Service Systems](https://dl.acm.org/doi/10.1145/3308558.3313501)
--  
 
