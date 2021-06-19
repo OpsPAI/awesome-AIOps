@@ -13,7 +13,7 @@ A curated list of awesome academic researches and industrial materials about Art
 | [Hongyu Zhang](http://hongyujohn.github.io/), UON ||||
 
 
-## Industrial resources
+## Industrial Materials
 ### Competitions
 - [AIOps Challenge] [A series of AIOps competitions hosted by Tsinghua University](http://iops.ai/)
 
