@@ -41,9 +41,18 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE'20] [Towards intelligent incident management: why we need it and how we make it](https://dl.acm.org/doi/abs/10.1145/3368089.3417055)
 - [arXiv'20] [A Systematic Mapping Study in AIOps](https://arxiv.org/abs/2012.09108)
 - [ICSE'19] [AIOps: Real-World Challenges and Research Innovations](https://ieeexplore.ieee.org/document/8802836)
+- [ISSRE'16] [Experience Report: System Log Analysis for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/7774521)
+- [ASE'13] [Software analytics for incident management of online services: An experience report](https://ieeexplore.ieee.org/document/6693105)
 
 ### Anomaly/Failure Detection
 - [KDD'19] [Time-Series Anomaly Detection Service at Microsoft](https://dl.acm.org/doi/10.1145/3292500.3330680)
+- [FSE'18] [Identifying Impactful Service System Problems via Log Analysis](https://dl.acm.org/doi/10.1145/3236024.3236083)
+
+### Failure Prediction
+- [OSDI'20] [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy)
+
+### Failure Diagnosis
+- [NSDI'20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
 
 ### Incident/Alarm management
 - [ESEC/FSE'20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
@@ -53,9 +62,3 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE'20] [Real-time incident prediction for online service systems](https://dl.acm.org/doi/abs/10.1145/3368089.3409672)
 - [ICSE'19] [An empirical investigation of incident triage for online service systems](https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00020)
 - [WWW'19] [Outage Prediction and Diagnosis for Cloud Service Systems](https://dl.acm.org/doi/10.1145/3308558.3313501)
-
-### Failure Prediction
-- [OSDI'20] [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy)
-
-### Failure Diagnosis
-- [NSDI'20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
