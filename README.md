@@ -2,15 +2,16 @@
 A curated list of awesome academic researches and industrial materials about Artificial Intelligence for IT Operations (AIOps).
 
 ## Researchers
-| China (& HK SAR) | ||||
-| :---------| :------ | :------ | :------ | :------ |
-| [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua | [Xin Peng](https://cspengxin.github.io/), Fudan |
-| **USA** |||||
-| [Ryan Huang](https://www.cs.jhu.edu/~huang/), JHU | [Yingnong Dang](https://scholar.google.com.hk/citations?user=InqtwxcAAAAJ&hl=en), Microsoft ||||
+| China (& HK SAR) | |||
+| :---------| :------ | :------ | :------ |
+| [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/), CUHK | [Dongmei Zhang](https://www.microsoft.com/en-us/research/people/dongmeiz/), Microsoft | [Pengfei Chen](http://sdcs.sysu.edu.cn/content/3747), SYSU | [Dan Pei](https://netman.aiops.org/~peidan/), Tsinghua |
+| [Xin Peng](https://cspengxin.github.io/), Fudan ||||
+| **USA** ||||
+| [Ryan Huang](https://www.cs.jhu.edu/~huang/), JHU | [Yingnong Dang](https://scholar.google.com.hk/citations?user=InqtwxcAAAAJ&hl=en), Microsoft |||
 | **Europe** |||||
-| [Odej Kao](https://www.cit.tu-berlin.de/kao/), TU Berlin |||||
-| **Australia** |||||
-| [Hongyu Zhang](http://hongyujohn.github.io/), UON |||||
+| [Odej Kao](https://www.cit.tu-berlin.de/kao/), TU Berlin ||||
+| **Australia** ||||
+| [Hongyu Zhang](http://hongyujohn.github.io/), UON ||||
 
 
 ## Industrial Materials
