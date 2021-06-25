@@ -10,10 +10,10 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Papers](#papers)
   - [Talks](#talks)
   - [Survey & Empirical Study](#survey--empirical-study)
-  - [Anomaly/Failure Detection](#anomaly--failure-detection)
+  - [Anomaly/Failure Detection](#anomaly-failure-detection)
   - [Failure Prediction](#failure-prediction)
   - [Failure Diagnosis](#failure-diagnosis)
-  - [Incident/Alarm Management](#incident--alarm-management)
+  - [Incident/Alarm Management](#incident-alarm-management)
 - [Datasets](#datasets)
 
 ## Researchers
