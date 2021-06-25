@@ -1,6 +1,21 @@
 # awesome-AIOps
 A curated list of awesome academic researches and industrial materials about Artificial Intelligence for IT Operations (AIOps).
 
+- [Researchers](#researchers)
+- [Industrial Materials](#industrial-materials)
+  - [Competitions](#competitions)
+  - [White Papers](#white-papers)
+  - [Blogs & Tutorials & Magazines](#blogs--tutorials--magazines)
+  - [Tools](#tools)
+- [Papers](#papers)
+  - [Talks](#talks)
+  - [Survey & Empirical Study](#survey--empirical-study)
+  - [Anomaly/Failure Detection](#anomaly--failure-detection)
+  - [Failure Prediction](#failure-prediction)
+  - [Failure Diagnosis](#failure-diagnosis)
+  - [Incident/Alarm Management](#incident--alarm-management)
+- [Datasets](#datasets)
+
 ## Researchers
 | China (& HK SAR) | |||
 | :---------| :------ | :------ | :------ |
@@ -58,7 +73,7 @@ A curated list of awesome academic researches and industrial materials about Art
 ### Failure Diagnosis
 - [NSDI'20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
 
-### Incident/Alarm management
+### Incident/Alarm Management
 - [ESEC/FSE'20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
 - [ESEC/FSE'20] [Efficient incident identification from multi-dimensional issue reports via meta-heuristic search](https://dl.acm.org/doi/abs/10.1145/3368089.3409741)
 - [ICSE'20] [Understanding and Handling Alert Storm for Online Service Systems](https://dl.acm.org/doi/10.1145/3377813.3381363)
