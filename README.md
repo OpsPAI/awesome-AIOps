@@ -66,3 +66,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE'20] [Real-time incident prediction for online service systems](https://dl.acm.org/doi/abs/10.1145/3368089.3409672)
 - [ICSE'19] [An empirical investigation of incident triage for online service systems](https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00020)
 - [WWW'19] [Outage Prediction and Diagnosis for Cloud Service Systems](https://dl.acm.org/doi/10.1145/3308558.3313501)
+
+## Datasets
+- [CUHK] [Loghub](https://github.com/logpai/loghub)
+- [Azure] [AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)
+- [Tsinghua] [AIOps Challenge Dataset](http://iops.ai/dataset_list/)
