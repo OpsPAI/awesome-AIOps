@@ -24,6 +24,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 ### Blogs & Tutorials & Magazines
 - [Moogsoft] [What is AIOps?](https://www.moogsoft.com/resources/aiops/guide/everything-aiops/)
+- [Microsoft] [Advancing Azure service quality with artificial intelligence: AIOps](https://azure.microsoft.com/en-us/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/)
 
 ### Tools
 - [**Log Analytics**] [LogPAI](https://github.com/logpai)
