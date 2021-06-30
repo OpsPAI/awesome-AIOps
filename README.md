@@ -15,6 +15,8 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Failure Diagnosis](#failure-diagnosis)
   - [Incident/Alarm Management](#incidentalarm-management)
 - [Datasets](#datasets)
+- [Others](#others)
+  - [Courses](#courses)
 
 ## Researchers
 | China (& HK SAR) | |||
@@ -86,3 +88,10 @@ A curated list of awesome academic researches and industrial materials about Art
 - [CUHK] [Loghub](https://github.com/logpai/loghub)
 - [Azure] [AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)
 - [Tsinghua] [AIOps Challenge Dataset](http://iops.ai/dataset_list/)
+
+
+## Others
+
+### Courses
+- [Coursera] [Cloud-Based Network Design & Management Techniques](https://www.coursera.org/learn/cloud-based-network-design-and-management)
+- [Tsinghua] [AIOps Course of Tsinghua](https://netman.aiops.org/courses/advanced-network-management-spring2021-course/)
