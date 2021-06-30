@@ -46,9 +46,11 @@ A curated list of awesome academic researches and industrial materials about Art
 ### Tools
 - [**Log Analytics**] [LogPAI](https://github.com/logpai)
 - [**Outlier Detection**] [PyOD](https://github.com/yzhao062/pyod)
-- [**Monitoring**] [Datadog](https://www.datadoghq.com/)
 - [**Fault Injection**] [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 - [**Fault Injection**] [ChaosBlade](https://github.com/chaosblade-io/chaosblade)
+
+### Companies
+- [Datadog](https://www.datadoghq.com/): A monitoring and security platform for cloud applications
 
 
 ## Papers
@@ -86,8 +88,10 @@ A curated list of awesome academic researches and industrial materials about Art
 
 ## Datasets
 - [CUHK] [Loghub](https://github.com/logpai/loghub)
-- [Azure] [AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)
+- [Azure] [Azure Public Dataset](https://github.com/Azure/AzurePublicDataset)
 - [Tsinghua] [AIOps Challenge Dataset](http://iops.ai/dataset_list/)
+- [Backblaze] [Hard Drive Dataset](https://www.backblaze.com/b2/hard-drive-test-data.html)
+- [Baidu] [SMART Dataset of PAKDD CUP 2020](https://pan.baidu.com/share/link?shareid=189977&uk=4278294944#list/path=%2FS.M.A.R.T.dataset)
 
 
 ## Others
