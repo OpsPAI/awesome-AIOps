@@ -38,6 +38,8 @@ A curated list of awesome academic researches and industrial materials about Art
 
 ### White Papers
 - [VMware] [Proactive Incident and Problem Management](https://docplayer.net/8854482-Proactive-incident-and-problem-management.html)
+- [GREATOPS 高效运维社区] [《企业级 AIOps 实施建议》白皮书](https://pic.huodongjia.com/ganhuodocs/2018-04-16/1523873064.74.pdf)
+- [Awesome Open Source] [Aiops Handbook](https://awesomeopensource.com/project/chenryn/aiops-handbook)
 
 ### Blogs & Tutorials & Magazines
 - [Moogsoft] [What is AIOps?](https://www.moogsoft.com/resources/aiops/guide/everything-aiops/)
