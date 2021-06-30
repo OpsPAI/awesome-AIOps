@@ -74,6 +74,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [NSDI'20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
 
 ### Fault Analysis
+- [FSE20] [Graph-based trace analysis for microservice architecture understanding and problem diagnosis](https://dl.acm.org/doi/10.1145/3368089.3417066)
 - [TSE18] [Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study](https://ieeexplore.ieee.org/document/8580420/)
 
 ### Incident/Alarm Management
