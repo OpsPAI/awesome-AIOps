@@ -92,7 +92,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 ## Datasets
 - [CUHK] [Loghub](https://github.com/logpai/loghub)
-- [Azure] [Azure Public Dataset](https://github.com/Azure/AzurePublicDataset)
+- [Microsoft Azure] [Azure Public Dataset](https://github.com/Azure/AzurePublicDataset)
 - [Tsinghua] [AIOps Challenge Dataset](http://iops.ai/dataset_list/)
 - [Backblaze] [Hard Drive Dataset](https://www.backblaze.com/b2/hard-drive-test-data.html)
 - [Baidu] [SMART Dataset of PAKDD CUP 2020](https://pan.baidu.com/share/link?shareid=189977&uk=4278294944#list/path=%2FS.M.A.R.T.dataset)
