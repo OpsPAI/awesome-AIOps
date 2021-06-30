@@ -7,6 +7,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [White Papers](#white-papers)
   - [Blogs & Tutorials & Magazines](#blogs--tutorials--magazines)
   - [Tools](#tools)
+  - [Companies](#companies)
 - [Papers](#papers)
   - [Talks](#talks)
   - [Survey & Empirical Study](#survey--empirical-study)
