@@ -11,10 +11,10 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Papers](#papers)
   - [Talks](#talks)
   - [Survey & Empirical Study](#survey--empirical-study)
-  - [Anomaly/Failure Detection](#anomalyfailure-detection)
+  - [Anomaly/Failure Detection](#anomaly-and-failure-detection)
   - [Failure Prediction](#failure-prediction)
   - [Failure Diagnosis](#failure-diagnosis)
-  - [Incident/Alarm Management](#incidentalarm-management)
+  - [Incident/Alarm Management](#incident-and-alarm-management)
 - [Datasets](#datasets)
 - [Others](#others)
   - [Courses](#courses)
@@ -71,7 +71,11 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ISSRE'16] [Experience Report: System Log Analysis for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/7774521)
 - [ASE'13] [Software analytics for incident management of online services: An experience report](https://ieeexplore.ieee.org/document/6693105)
 
-### Anomaly/Failure Detection
+### Dependency and Tracing
+- [NSDI'07] [X-Trace: A Pervasive Network Tracing Framework](https://www.usenix.org/conference/nsdi-07/x-trace-pervasive-network-tracing-framework)
+- [HotNets'06] [Discovering Dependencies for Network Management](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/11/hotnets06.pdf)
+
+### Anomaly and Failure Detection
 - [KDD'19] [Time-Series Anomaly Detection Service at Microsoft](https://dl.acm.org/doi/10.1145/3292500.3330680)
 - [ESEC/FSE'18] [Identifying Impactful Service System Problems via Log Analysis](https://dl.acm.org/doi/10.1145/3236024.3236083)
 - [CCS'17] [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://dl.acm.org/doi/10.1145/3133956.3134015)
@@ -86,7 +90,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [FSE20] [Graph-based trace analysis for microservice architecture understanding and problem diagnosis](https://dl.acm.org/doi/10.1145/3368089.3417066)
 - [TSE18] [Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study](https://ieeexplore.ieee.org/document/8580420/)
 
-### Incident/Alarm Management
+### Incident and Alarm Management
 - [ESEC/FSE'20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
 - [ESEC/FSE'20] [Efficient incident identification from multi-dimensional issue reports via meta-heuristic search](https://dl.acm.org/doi/abs/10.1145/3368089.3409741)
 - [ICSE'20] [Understanding and Handling Alert Storm for Online Service Systems](https://dl.acm.org/doi/10.1145/3377813.3381363)
