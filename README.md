@@ -8,8 +8,10 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Blogs & Tutorials & Magazines](#blogs--tutorials--magazines)
   - [Tools](#tools)
   - [Companies](#companies)
-- [Papers](#papers)
+- [Academic Materials](#academic-materials)
   - [Talks](#talks)
+  - [Workshops](#workshops)
+- [Papers](#papers)
   - [Survey & Empirical Study](#survey--empirical-study)
   - [Anomaly and Failure Detection](#anomaly-and-failure-detection)
   - [Failure Prediction](#failure-prediction)
@@ -58,10 +60,18 @@ A curated list of awesome academic researches and industrial materials about Art
 - [听云 TINGYUN](https://www.tingyun.com/lp.html): 端到端的全平台应用性能管理系统
 
 
-## Papers
+## Academic Materials
 
 ### Talks
 - [Michael R. Lyu] [Reliability-Driven AIOps for Cloud Resilience (Keynote talk at ICSE'21)](http://ariselab.cse.cuhk.edu.hk/assets/files/ICSE2021_keynote_lyu.pdf)
+
+### Workshops
+- [ICSE21 Workshop on Cloud Intelligence](http://cloudintelligenceworkshop.org/index.html)
+- [AAAI-20 Workshop on Cloud Intelligence](http://cloudintelligenceworkshop.org/2020/index.html)
+- [AIOPS 2020 (International Workshop on Artificial Intelligence for IT Operations)](https://aiopsworkshop.github.io/)
+
+
+## Papers
 
 ### Survey & Empirical Study
 - [CSUR'21] [A Survey on Automated Log Analysis for Reliability Engineering](https://arxiv.org/abs/2009.07237)
