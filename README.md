@@ -16,6 +16,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Anomaly and Failure Detection](#anomaly-and-failure-detection)
   - [Failure Prediction](#failure-prediction)
   - [Failure Diagnosis](#failure-diagnosis)
+  - [Fault Analysis](#fault-analysis)
   - [Incident and Alarm Management](#incident-and-alarm-management)
 - [Datasets](#datasets)
 - [Others](#others)
