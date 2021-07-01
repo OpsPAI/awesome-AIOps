@@ -93,6 +93,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 ### Failure Prediction
 - [OSDI'20] [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy)
+- [ESEC/FSE'18] [Predicting Node Failure in Cloud Service Systems](https://dl.acm.org/doi/10.1145/3236024.3236060)
 
 ### Failure Diagnosis
 - [NSDI'20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
@@ -102,13 +103,15 @@ A curated list of awesome academic researches and industrial materials about Art
 - [TSE18] [Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study](https://ieeexplore.ieee.org/document/8580420/)
 
 ### Incident and Alarm Management
+- [ASE'20] [How Incidental are the Incidents?: Characterizing and Prioritizing Incidents for Large-Scale Online Service Systems](https://dl.acm.org/doi/10.1145/3324884.3416624)
 - [ESEC/FSE'20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
 - [ESEC/FSE'20] [Efficient incident identification from multi-dimensional issue reports via meta-heuristic search](https://dl.acm.org/doi/abs/10.1145/3368089.3409741)
-- [ICSE'20] [Understanding and Handling Alert Storm for Online Service Systems](https://dl.acm.org/doi/10.1145/3377813.3381363)
-- [ESEC/FSE'20] [Efficient incident identification from multi-dimensional issue reports via meta-heuristic search](https://dl.acm.org/doi/abs/10.1145/3368089.3409741)
 - [ESEC/FSE'20] [Real-time incident prediction for online service systems](https://dl.acm.org/doi/abs/10.1145/3368089.3409672)
+- [ESEC/FSE'20] [How to mitigate the incident? an effective troubleshooting guide recommendation technique for online service systems](https://dl.acm.org/doi/abs/10.1145/3368089.3417054)
+- [ICSE'20] [Understanding and Handling Alert Storm for Online Service Systems](https://dl.acm.org/doi/10.1145/3377813.3381363)
 - [ICSE'19] [An empirical investigation of incident triage for online service systems](https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00020)
 - [WWW'19] [Outage Prediction and Diagnosis for Cloud Service Systems](https://dl.acm.org/doi/10.1145/3308558.3313501)
+- [KDD'14] [Correlating Events with Time Series for Incident Diagnosis](https://dl.acm.org/doi/10.1145/2623330.2623374)
 
 ## Datasets
 - [CUHK] [Loghub](https://github.com/logpai/loghub)
