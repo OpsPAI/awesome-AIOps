@@ -59,7 +59,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Outlier Detection] [PyOD](https://github.com/yzhao062/pyod)
 - [Fault Injection] [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 - [Fault Injection] [ChaosBlade](https://github.com/chaosblade-io/chaosblade)
-- [Anomaly Detection Labeling Tool] [TagAnomaly](https://github.com/Microsoft/TagAnomaly)
+- [Anomaly Detection Labeling Tool] [Microsoft TagAnomaly](https://github.com/Microsoft/TagAnomaly)
 - [Serverless App Dev. Framework] [AWS Serverless Application Model (AWS SAM)](https://github.com/aws/serverless-application-model)
 
 ### Companies
