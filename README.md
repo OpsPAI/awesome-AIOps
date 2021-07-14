@@ -76,6 +76,7 @@ A curated list of awesome academic researches and industrial materials about Art
 ## Papers
 
 ### Survey & Empirical Study
+- [arXiv'21] [Experience Report: Deep Learning-based System Log Analysis for Anomaly Detection](https://arxiv.org/abs/2107.05908)
 - [CSUR'21] [A Survey on Automated Log Analysis for Reliability Engineering](https://arxiv.org/abs/2009.07237)
 - [ESEC/FSE'20] [Towards intelligent incident management: why we need it and how we make it](https://dl.acm.org/doi/abs/10.1145/3368089.3417055)
 - [arXiv'20] [A Systematic Mapping Study in AIOps](https://arxiv.org/abs/2012.09108)
