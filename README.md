@@ -6,6 +6,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Competitions](#competitions)
   - [White Papers](#white-papers)
   - [Blogs & Tutorials & Magazines](#blogs--tutorials--magazines)
+  - [Benchmarks](#benchmarks)
   - [Tools](#tools)
   - [Companies](#companies)
 - [Academic Materials](#academic-materials)
@@ -49,12 +50,16 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Moogsoft] [What is AIOps?](https://www.moogsoft.com/resources/aiops/guide/everything-aiops/)
 - [Microsoft] [Advancing Azure service quality with artificial intelligence: AIOps](https://azure.microsoft.com/en-us/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/)
 
+### Benchmarks
+- [Fudan] [Train Ticke (A Benchmark Microservice System)](https://github.com/FudanSELab/train-ticket)
+- [Weaveworks] [Sock Shop (A Microservices Demo Application)](https://microservices-demo.github.io/)
+
 ### Tools
-- [**Log Analytics**] [LogPAI](https://github.com/logpai)
-- [**Outlier Detection**] [PyOD](https://github.com/yzhao062/pyod)
-- [**Fault Injection**] [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
-- [**Fault Injection**] [ChaosBlade](https://github.com/chaosblade-io/chaosblade)
-- [**Anomaly Detection Labeling Tool**] [TagAnomaly](https://github.com/Microsoft/TagAnomaly)
+- [Log Analytics] [LogPAI](https://github.com/logpai)
+- [Outlier Detection] [PyOD](https://github.com/yzhao062/pyod)
+- [Fault Injection] [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
+- [Fault Injection] [ChaosBlade](https://github.com/chaosblade-io/chaosblade)
+- [Anomaly Detection Labeling Tool] [TagAnomaly](https://github.com/Microsoft/TagAnomaly)
 
 ### Companies
 - [Datadog](https://www.datadoghq.com/): A monitoring and security platform for cloud applications
