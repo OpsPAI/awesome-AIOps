@@ -51,7 +51,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Microsoft] [Advancing Azure service quality with artificial intelligence: AIOps](https://azure.microsoft.com/en-us/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/)
 
 ### Benchmarks
-- [Fudan] [Train Ticke (A Benchmark Microservice System)](https://github.com/FudanSELab/train-ticket)
+- [Fudan] [Train Ticket (A Benchmark Microservice System)](https://github.com/FudanSELab/train-ticket)
 - [Weaveworks] [Sock Shop (A Microservices Demo Application)](https://microservices-demo.github.io/)
 
 ### Tools
