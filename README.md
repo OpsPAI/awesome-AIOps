@@ -60,6 +60,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Fault Injection] [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 - [Fault Injection] [ChaosBlade](https://github.com/chaosblade-io/chaosblade)
 - [Anomaly Detection Labeling Tool] [TagAnomaly](https://github.com/Microsoft/TagAnomaly)
+- [Serverless Application Development] [AWS Serverless Application Model (AWS SAM)](https://github.com/aws/serverless-application-model)
 
 ### Companies
 - [Datadog](https://www.datadoghq.com/): A monitoring and security platform for cloud applications
