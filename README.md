@@ -57,6 +57,7 @@ A curated list of awesome academic researches and industrial materials about Art
 ### Tools
 - [Log Analytics] [LogPAI](https://github.com/logpai)
 - [Outlier Detection] [PyOD](https://github.com/yzhao062/pyod)
+- [Anomaly Detection] [PySAD](https://github.com/selimfirat/pysad)
 - [Fault Injection] [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 - [Fault Injection] [ChaosBlade](https://github.com/chaosblade-io/chaosblade)
 - [Anomaly Detection Labeling Tool] [Microsoft TagAnomaly](https://github.com/Microsoft/TagAnomaly)
