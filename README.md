@@ -14,6 +14,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Workshops](#workshops)
 - [Papers](#papers)
   - [Survey & Empirical Study](#survey--empirical-study)
+  - [Dependency and Tracing](#dependency-and-tracing)
   - [Anomaly and Failure Detection](#anomaly-and-failure-detection)
   - [Failure Prediction](#failure-prediction)
   - [Failure Diagnosis](#failure-diagnosis)
