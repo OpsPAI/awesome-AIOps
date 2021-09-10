@@ -122,6 +122,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE'20] [Real-time incident prediction for online service systems](https://dl.acm.org/doi/abs/10.1145/3368089.3409672)
 - [ESEC/FSE'20] [How to mitigate the incident? an effective troubleshooting guide recommendation technique for online service systems](https://dl.acm.org/doi/abs/10.1145/3368089.3417054)
 - [ICSE'20] [Understanding and Handling Alert Storm for Online Service Systems](https://dl.acm.org/doi/10.1145/3377813.3381363)
+- [HotOS'19] [What bugs cause production cloud incidents?](https://dl.acm.org/doi/10.1145/3317550.3321438)
 - [ASE'19] [Continuous Incident Triage for Large-Scale Online Service Systems](https://dl.acm.org/doi/10.1109/ASE.2019.00042)
 - [ICSE'19] [An empirical investigation of incident triage for online service systems](https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00020)
 - [WWW'19] [Outage Prediction and Diagnosis for Cloud Service Systems](https://dl.acm.org/doi/10.1145/3308558.3313501)
