@@ -102,8 +102,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [HotNets'06] [Discovering Dependencies for Network Management](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/11/hotnets06.pdf)
 
 ### Anomaly and Failure Detection
-- [OSDI'18] [Capturing and Enhancing In Situ System Observability for Failure Detection](https://www.usenix.org/conference/osdi18/presentation/huang)
 - [KDD'19] [Time-Series Anomaly Detection Service at Microsoft](https://dl.acm.org/doi/10.1145/3292500.3330680)
+- [OSDI'18] [Capturing and Enhancing In Situ System Observability for Failure Detection](https://www.usenix.org/conference/osdi18/presentation/huang)
 - [ESEC/FSE'18] [Identifying Impactful Service System Problems via Log Analysis](https://dl.acm.org/doi/10.1145/3236024.3236083)
 - [CCS'17] [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://dl.acm.org/doi/10.1145/3133956.3134015)
 
