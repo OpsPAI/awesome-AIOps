@@ -97,6 +97,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ASE'13] [Software analytics for incident management of online services: An experience report](https://ieeexplore.ieee.org/document/6693105)
 
 ### Dependency and Tracing
+- [ASE'21] [AID: Efficient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems](https://arxiv.org/abs/2109.04893)
 - [NSDI'07] [X-Trace: A Pervasive Network Tracing Framework](https://www.usenix.org/conference/nsdi-07/x-trace-pervasive-network-tracing-framework)
 - [HotNets'06] [Discovering Dependencies for Network Management](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/11/hotnets06.pdf)
 
@@ -110,14 +111,16 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE'18] [Predicting Node Failure in Cloud Service Systems](https://dl.acm.org/doi/10.1145/3236024.3236060)
 
 ### Failure Diagnosis
+- [ASPLOS'21] [Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700)
 - [OSDI'20] [FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices](https://www.usenix.org/conference/osdi20/presentation/qiu)
 - [NSDI'20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
 
 ### Fault Analysis
-- [FSE20] [Graph-based trace analysis for microservice architecture understanding and problem diagnosis](https://dl.acm.org/doi/10.1145/3368089.3417066)
-- [TSE18] [Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study](https://ieeexplore.ieee.org/document/8580420/)
+- [FSE'20] [Graph-based trace analysis for microservice architecture understanding and problem diagnosis](https://dl.acm.org/doi/10.1145/3368089.3417066)
+- [TSE'18] [Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study](https://ieeexplore.ieee.org/document/8580420/)
 
 ### Incident and Alarm Management
+- [ASE'21] [Graph-based Incident Aggregation for Large-Scale Online Service Systems](https://arxiv.org/abs/2108.12179)
 - [ASE'20] [How Incidental are the Incidents?: Characterizing and Prioritizing Incidents for Large-Scale Online Service Systems](https://dl.acm.org/doi/10.1145/3324884.3416624)
 - [ESEC/FSE'20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
 - [ESEC/FSE'20] [Efficient incident identification from multi-dimensional issue reports via meta-heuristic search](https://dl.acm.org/doi/abs/10.1145/3368089.3409741)
