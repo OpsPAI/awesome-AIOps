@@ -14,6 +14,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Workshops](#workshops)
 - [Papers](#papers)
   - [Survey & Empirical Study](#survey--empirical-study)
+  - [Knowledge Graph](#knowledge-graph)
   - [Microservices and Serverless](#microservices-and-serverless)
   - [Dependency and Tracing](#dependency-and-tracing)
   - [Anomaly and Failure Detection](#anomaly-and-failure-detection)
@@ -98,9 +99,15 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ISSRE '16] [Experience Report: System Log Analysis for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/7774521)
 - [ASE '13] [Software analytics for incident management of online services: An experience report](https://ieeexplore.ieee.org/document/6693105)
 
+### Knowledge Graph
+- [ICSE-SEIP '22] [Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps](https://arxiv.org/abs/2204.11598)
+- [ICSE-SEIP '21] [Neural knowledge extraction from cloud service incidents](https://dl.acm.org/doi/abs/10.1109/ICSE-SEIP52600.2021.00031)
+- [arXiv '21] [SoftNER: Mining Knowledge Graphs From Cloud Incidents](https://arxiv.org/abs/2101.05961)
+- [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
+
 ### Microservices and Serverless
 - [ASPLOS '21] [Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700)
-- [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
+- [APPLSCI '20] [A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications](https://www.mdpi.com/2076-3417/10/6/2166)
 
 ### Dependency and Tracing
 - [ASE '21] [AID: Efficient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems](https://arxiv.org/abs/2109.04893) [[code](https://github.com/OpsPAI/aid)]
