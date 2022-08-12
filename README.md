@@ -69,6 +69,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Performance Monitoring] [Netdata](https://www.netdata.cloud/)
 - [Anomaly Detection Labeling Tool] [Microsoft TagAnomaly](https://github.com/Microsoft/TagAnomaly)
 - [Serverless App Dev. Framework] [AWS Serverless Application Model (AWS SAM)](https://github.com/aws/serverless-application-model)
+- [Data Infrastructure] [Squirrel](https://github.com/merantix-momentum/squirrel-core)
 
 ### Companies
 - [Datadog](https://www.datadoghq.com/): A monitoring and security platform for cloud applications
