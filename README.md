@@ -103,6 +103,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ICSE-SEIP '22] [Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps](https://arxiv.org/abs/2204.11598)
 - [ICSE-SEIP '21] [Neural knowledge extraction from cloud service incidents](https://dl.acm.org/doi/abs/10.1109/ICSE-SEIP52600.2021.00031)
 - [arXiv '21] [SoftNER: Mining Knowledge Graphs From Cloud Incidents](https://arxiv.org/abs/2101.05961)
+- [ICDCS '21] [Defuse: A Dependency-Guided Function Scheduler to Mitigate Cold Starts on FaaS Platforms](https://ieeexplore.ieee.org/document/9546470)
 - [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
 
 ### Microservices and Serverless
