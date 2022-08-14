@@ -14,14 +14,15 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Workshops](#workshops)
 - [Papers](#papers)
   - [Survey & Empirical Study](#survey--empirical-study)
+  - [Benchmarks](#benchmarks)
   - [Knowledge Graph for AIOps](#knowledge-graph-for-aiops)
   - [Microservices and Serverless](#microservices-and-serverless)
   - [Dependency and Tracing](#dependency-and-tracing)
   - [Anomaly and Failure Detection](#anomaly-and-failure-detection)
-  - [Failure Prediction](#failure-prediction)
-  - [Failure Diagnosis](#failure-diagnosis)
-  - [Fault Analysis](#fault-analysis)
   - [Incident and Alarm Management](#incident-and-alarm-management)
+  - [Node and Disk Management](#node-and-disk-management)
+  - [VM Management](#vm-management)
+  - [Deployment](#deployment)
 - [Datasets](#datasets)
 - [Others](#others)
   - [Courses](#courses)
@@ -99,21 +100,32 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ISSRE '16] [Experience Report: System Log Analysis for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/7774521)
 - [ASE '13] [Software analytics for incident management of online services: An experience report](https://ieeexplore.ieee.org/document/6693105)
 
+
+### Benchmarks
+- [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
+
+
 ### Knowledge Graph for AIOps
 - [ICSE-SEIP '22] [Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps](https://arxiv.org/abs/2204.11598)
 - [ICSE-SEIP '21] [Neural knowledge extraction from cloud service incidents](https://dl.acm.org/doi/abs/10.1109/ICSE-SEIP52600.2021.00031)
 - [arXiv '21] [SoftNER: Mining Knowledge Graphs From Cloud Incidents](https://arxiv.org/abs/2101.05961)
-- [ICDCS '21] [Defuse: A Dependency-Guided Function Scheduler to Mitigate Cold Starts on FaaS Platforms](https://ieeexplore.ieee.org/document/9546470)
-- [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
+- [APPLSCI '20] [A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications](https://www.mdpi.com/2076-3417/10/6/2166)
+
 
 ### Microservices and Serverless
 - [ASPLOS '21] [Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700)
-- [APPLSCI '20] [A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications](https://www.mdpi.com/2076-3417/10/6/2166)
+- [ICDCS '21] [Defuse: A Dependency-Guided Function Scheduler to Mitigate Cold Starts on FaaS Platforms](https://ieeexplore.ieee.org/document/9546470)
+- [FSE '20] [Graph-based trace analysis for microservice architecture understanding and problem diagnosis](https://dl.acm.org/doi/10.1145/3368089.3417066)
+- [OSDI '20] [FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices](https://www.usenix.org/conference/osdi20/presentation/qiu)
+- [ESEC/FSE '19] [Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs](https://dl.acm.org/doi/10.1145/3338906.3338961)
+- [TSE '18] [Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study](https://ieeexplore.ieee.org/document/8580420/)
+
 
 ### Dependency and Tracing
 - [ASE '21] [AID: Efficient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems](https://arxiv.org/abs/2109.04893) [[code](https://github.com/OpsPAI/aid)]
 - [NSDI '07] [X-Trace: A Pervasive Network Tracing Framework](https://www.usenix.org/conference/nsdi-07/x-trace-pervasive-network-tracing-framework)
 - [HotNets '06] [Discovering Dependencies for Network Management](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/11/hotnets06.pdf)
+
 
 ### Anomaly and Failure Detection
 - [ICSE '22] [Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching](https://arxiv.org/abs/2201.02944) [[code](https://github.com/OpsPAI/ADSketch)]
@@ -122,20 +134,9 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE '18] [Identifying Impactful Service System Problems via Log Analysis](https://dl.acm.org/doi/10.1145/3236024.3236083)
 - [CCS '17] [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://dl.acm.org/doi/10.1145/3133956.3134015)
 
-### Failure Prediction
-- [OSDI '20] [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy)
-- [ESEC/FSE '18] [Predicting Node Failure in Cloud Service Systems](https://dl.acm.org/doi/10.1145/3236024.3236060)
-
-### Failure Diagnosis
-- [ASPLOS '21] [Sage: Practical & Scalable ML-Driven Performance Debugging in Microservices](https://dl.acm.org/doi/abs/10.1145/3445814.3446700)
-- [OSDI '20] [FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices](https://www.usenix.org/conference/osdi20/presentation/qiu)
-- [NSDI '20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
-
-### Fault Analysis
-- [FSE '20] [Graph-based trace analysis for microservice architecture understanding and problem diagnosis](https://dl.acm.org/doi/10.1145/3368089.3417066)
-- [TSE '18] [Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study](https://ieeexplore.ieee.org/document/8580420/)
 
 ### Incident and Alarm Management
+- [DSN '22] [Characterizing and Mitigating Anti-patterns of Alerts in Industrial Cloud Systems](https://arxiv.org/abs/2204.09670)
 - [ASE '21] [Graph-based Incident Aggregation for Large-Scale Online Service Systems](https://arxiv.org/abs/2108.12179)
 - [ASE '20] [How Incidental are the Incidents?: Characterizing and Prioritizing Incidents for Large-Scale Online Service Systems](https://dl.acm.org/doi/10.1145/3324884.3416624)
 - [ESEC/FSE '20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
@@ -148,6 +149,21 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ICSE '19] [An empirical investigation of incident triage for online service systems](https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00020)
 - [WWW '19] [Outage Prediction and Diagnosis for Cloud Service Systems](https://dl.acm.org/doi/10.1145/3308558.3313501)
 - [KDD '14] [Correlating Events with Time Series for Incident Diagnosis](https://dl.acm.org/doi/10.1145/2623330.2623374)
+
+
+### Node and Disk Management
+- [TOSEM '20] [Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution](https://dl.acm.org/doi/10.1145/3385187)
+- [ICDCS '20] [Toward Adaptive Disk Failure Prediction via Stream Mining](https://ieeexplore.ieee.org/document/9355640)
+- [ESEC/FSE '18] [Predicting Node Failure in Cloud Service Systems](https://dl.acm.org/doi/10.1145/3236024.3236060)
+
+
+### VM Management
+- [OSDI '20] [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy)
+
+
+### Deployment
+- [NSDI '20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
+
 
 ## Datasets
 - [CUHK] [Loghub](https://github.com/logpai/loghub)
