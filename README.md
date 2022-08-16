@@ -21,7 +21,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Anomaly and Failure Detection](#anomaly-and-failure-detection)
   - [Incident and Alarm Management](#incident-and-alarm-management)
   - [Node and Disk Management](#node-and-disk-management)
-  - [VM Management](#vm-management)
+  - [VM Analysis and Management](#vm-analysis-and-management)
   - [Deployment](#deployment)
 - [Datasets](#datasets)
 - [Others](#others)
@@ -102,6 +102,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Benchmarks
+- [arXiv '22] [Constructing Large-Scale Real-World Benchmark Datasets for AIOps](https://arxiv.org/abs/2208.03938)
 - [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
 
 
@@ -157,7 +158,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE '18] [Predicting Node Failure in Cloud Service Systems](https://dl.acm.org/doi/10.1145/3236024.3236060)
 
 
-### VM Management
+### VM Analysis and Management
+- [NSDI '22] [CloudCluster: Unearthing the Functional Structure of a Cloud Service](https://www.usenix.org/conference/nsdi22/presentation/pang)
 - [OSDI '20] [Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions](https://www.usenix.org/conference/osdi20/presentation/levy)
 
 
