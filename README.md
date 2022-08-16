@@ -164,6 +164,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Deployment
+- [SOSP '21] [Understanding and Detecting Software Upgrade Failures in Distributed Systems](https://dl.acm.org/doi/10.1145/3477132.3483577)
 - [NSDI '20] [Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure](https://www.usenix.org/conference/nsdi20/presentation/li)
 
 
