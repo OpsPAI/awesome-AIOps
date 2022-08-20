@@ -20,7 +20,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Dependency and Tracing](#dependency-and-tracing)
   - [Anomaly and Failure Detection](#anomaly-and-failure-detection)
   - [Incident and Alarm Management](#incident-and-alarm-management)
-  - [Node and Disk Management](#node-and-disk-management)
+  - [Node, Disk, and Storage](#node-disk-and-storage)
   - [VM Analysis and Management](#vm-analysis-and-management)
   - [Deployment](#deployment)
 - [Datasets](#datasets)
@@ -138,6 +138,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 ### Incident and Alarm Management
 - [DSN '22] [Characterizing and Mitigating Anti-patterns of Alerts in Industrial Cloud Systems](https://arxiv.org/abs/2204.09670)
+- [USENIX ATC '21] [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun)
 - [ASE '21] [Graph-based Incident Aggregation for Large-Scale Online Service Systems](https://arxiv.org/abs/2108.12179)
 - [ASE '20] [How Incidental are the Incidents?: Characterizing and Prioritizing Incidents for Large-Scale Online Service Systems](https://dl.acm.org/doi/10.1145/3324884.3416624)
 - [ESEC/FSE '20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
@@ -152,10 +153,12 @@ A curated list of awesome academic researches and industrial materials about Art
 - [KDD '14] [Correlating Events with Time Series for Incident Diagnosis](https://dl.acm.org/doi/10.1145/2623330.2623374)
 
 
-### Node and Disk Management
+### Node, Disk, and Storage
 - [TOSEM '20] [Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution](https://dl.acm.org/doi/10.1145/3385187)
 - [ICDCS '20] [Toward Adaptive Disk Failure Prediction via Stream Mining](https://ieeexplore.ieee.org/document/9355640)
+- [USENIX ATC '19] [IASO: A Fail-Slow Detection and Mitigation Framework for Distributed Storage Services](https://www.usenix.org/conference/atc19/presentation/panda)
 - [ESEC/FSE '18] [Predicting Node Failure in Cloud Service Systems](https://dl.acm.org/doi/10.1145/3236024.3236060)
+- [USENIX ATC '18] [Improving Service Availability of Cloud Systems by Predicting Disk Error](https://www.usenix.org/conference/atc18/presentation/xu-yong)
 
 
 ### VM Analysis and Management
