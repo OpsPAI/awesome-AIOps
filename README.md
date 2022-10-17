@@ -53,6 +53,8 @@ A curated list of awesome academic researches and industrial materials about Art
 ### Blogs & Tutorials & Magazines
 - [Tsinghua University] [清华裴丹：AIOps落地的15条原则](https://mp.weixin.qq.com/s/Ov1gQlQ0mRpk58cNL_YlVg)
 - [Tsinghua University] [清华裴丹：AIOps效果落地最后一公里](https://mp.weixin.qq.com/s/VhaRfvjc839bAXBMfzv11g)
+- [Alibaba Cloud] [基于大数据的智能网络分析-齐天](https://developer.aliyun.com/article/590290)
+- [Tsinghua University] [清华裴丹：AIOps效果落地最后一公里](https://mp.weixin.qq.com/s/VhaRfvjc839bAXBMfzv11g)
 - [Moogsoft] [What is AIOps?](https://www.moogsoft.com/resources/aiops/guide/everything-aiops/)
 - [Microsoft] [Advancing Azure service quality with artificial intelligence: AIOps](https://azure.microsoft.com/en-us/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/)
 
