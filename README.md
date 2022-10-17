@@ -51,6 +51,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Awesome Open Source] [Aiops Handbook](https://awesomeopensource.com/project/chenryn/aiops-handbook)
 
 ### Blogs & Tutorials & Magazines
+- [Tsinghua University] [清华裴丹：AIOps落地的15条原则](https://mp.weixin.qq.com/s/Ov1gQlQ0mRpk58cNL_YlVg)
+- [Tsinghua University] [清华裴丹：AIOps效果落地最后一公里](https://mp.weixin.qq.com/s/VhaRfvjc839bAXBMfzv11g)
 - [Moogsoft] [What is AIOps?](https://www.moogsoft.com/resources/aiops/guide/everything-aiops/)
 - [Microsoft] [Advancing Azure service quality with artificial intelligence: AIOps](https://azure.microsoft.com/en-us/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/)
 
@@ -140,6 +142,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [DSN '22] [Characterizing and Mitigating Anti-patterns of Alerts in Industrial Cloud Systems](https://arxiv.org/abs/2204.09670)
 - [USENIX ATC '21] [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun)
 - [ASE '21] [Graph-based Incident Aggregation for Large-Scale Online Service Systems](https://arxiv.org/abs/2108.12179)
+- [SIGCOMM '20] [Scouts: Improving the Diagnosis Process Through Domain-customized Incident Routing](https://dl.acm.org/doi/10.1145/3387514.3405867)
 - [ASE '20] [How Incidental are the Incidents?: Characterizing and Prioritizing Incidents for Large-Scale Online Service Systems](https://dl.acm.org/doi/10.1145/3324884.3416624)
 - [ESEC/FSE '20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
 - [ESEC/FSE '20] [Efficient incident identification from multi-dimensional issue reports via meta-heuristic search](https://dl.acm.org/doi/abs/10.1145/3368089.3409741)
