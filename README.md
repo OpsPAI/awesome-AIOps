@@ -144,6 +144,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [DSN '22] [Characterizing and Mitigating Anti-patterns of Alerts in Industrial Cloud Systems](https://arxiv.org/abs/2204.09670)
 - [USENIX ATC '21] [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun)
 - [ASE '21] [Graph-based Incident Aggregation for Large-Scale Online Service Systems](https://arxiv.org/abs/2108.12179)
+- [ASE '21] [Groot: An Event-graph-based Approach for Root Cause Analysis in Industrial Settings](https://arxiv.org/abs/2108.00344)
 - [SIGCOMM '20] [Scouts: Improving the Diagnosis Process Through Domain-customized Incident Routing](https://dl.acm.org/doi/10.1145/3387514.3405867)
 - [ASE '20] [How Incidental are the Incidents?: Characterizing and Prioritizing Incidents for Large-Scale Online Service Systems](https://dl.acm.org/doi/10.1145/3324884.3416624)
 - [ESEC/FSE '20] [Identifying linked incidents in large-scale online service systems](https://dl.acm.org/doi/10.1145/3368089.3409768)
@@ -161,7 +162,9 @@ A curated list of awesome academic researches and industrial materials about Art
 ### Node, Disk, and Storage
 - [TOSEM '20] [Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution](https://dl.acm.org/doi/10.1145/3385187)
 - [ICDCS '20] [Toward Adaptive Disk Failure Prediction via Stream Mining](https://ieeexplore.ieee.org/document/9355640)
+- [VLDB '20] [Diagnosing root causes of intermittent slow queries in cloud databases](https://dl.acm.org/doi/abs/10.14778/3389133.3389136)
 - [USENIX ATC '19] [IASO: A Fail-Slow Detection and Mitigation Framework for Distributed Storage Services](https://www.usenix.org/conference/atc19/presentation/panda)
+- [NSDI '18] [Deepview: Virtual Disk Failure Diagnosis and Pattern Detection for Azure](https://www.usenix.org/conference/nsdi18/presentation/zhang-qiao)
 - [ESEC/FSE '18] [Predicting Node Failure in Cloud Service Systems](https://dl.acm.org/doi/10.1145/3236024.3236060)
 - [USENIX ATC '18] [Improving Service Availability of Cloud Systems by Predicting Disk Error](https://www.usenix.org/conference/atc18/presentation/xu-yong)
 
