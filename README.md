@@ -68,6 +68,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Outlier Detection] [PyOD](https://github.com/yzhao062/pyod)
 - [Anomaly Detection] [ADTK](https://github.com/arundo/adtk)
 - [Anomaly Detection] [PySAD](https://github.com/selimfirat/pysad)
+- [Online machine learning in Python] [River](https://riverml.xyz/)
 - [Fault Injection] [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh)
 - [Fault Injection] [ChaosBlade](https://github.com/chaosblade-io/chaosblade)
 - [Container Monitoring] [cAdvisor](https://github.com/google/cadvisor)
