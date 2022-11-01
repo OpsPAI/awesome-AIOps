@@ -162,6 +162,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Node, Disk, and Storage
+- [DSN '21] [General Feature Selection for Failure Prediction in Large-scale SSD Deployment](https://ieeexplore.ieee.org/document/9505157)
 - [TOSEM '20] [Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution](https://dl.acm.org/doi/10.1145/3385187)
 - [ICDCS '20] [Toward Adaptive Disk Failure Prediction via Stream Mining](https://ieeexplore.ieee.org/document/9355640)
 - [VLDB '20] [Diagnosing root causes of intermittent slow queries in cloud databases](https://dl.acm.org/doi/abs/10.14778/3389133.3389136)
