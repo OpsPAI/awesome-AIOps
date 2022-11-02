@@ -189,6 +189,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Google] [Cluster Traces](https://github.com/google/cluster-data)
 - [Backblaze] [Hard Drive Dataset](https://www.backblaze.com/b2/hard-drive-test-data.html)
 - [Baidu] [SMART Dataset of PAKDD CUP 2020](https://pan.baidu.com/share/link?shareid=189977&uk=4278294944#list/path=%2FS.M.A.R.T.dataset)
+- [Alibaba] [SSD SMART logs and failure data](https://github.com/alibaba-edu/dcbrain/tree/master/ssd_open_data)
 
 
 ## Others
