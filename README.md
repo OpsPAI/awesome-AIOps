@@ -104,6 +104,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ESEC/FSE '20] [Towards intelligent incident management: why we need it and how we make it](https://dl.acm.org/doi/abs/10.1145/3368089.3417055)
 - [arXiv '20] [A Systematic Mapping Study in AIOps](https://arxiv.org/abs/2012.09108)
 - [ICSE '19] [AIOps: Real-World Challenges and Research Innovations](https://ieeexplore.ieee.org/document/8802836)
+- [HotOS '19] [What bugs cause production cloud incidents?](https://dl.acm.org/doi/10.1145/3317550.3321438)
 - [ISSRE '16] [Experience Report: System Log Analysis for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/7774521)
 - [ASE '13] [Software analytics for incident management of online services: An experience report](https://ieeexplore.ieee.org/document/6693105)
 
