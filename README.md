@@ -145,6 +145,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Incident and Alarm Management
+- [SoCC '22] [How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service](https://dl.acm.org/doi/10.1145/3542929.3563482)
 - [DSN '22] [Characterizing and Mitigating Anti-patterns of Alerts in Industrial Cloud Systems](https://arxiv.org/abs/2204.09670)
 - [USENIX ATC '21] [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun)
 - [ASE '21] [Graph-based Incident Aggregation for Large-Scale Online Service Systems](https://arxiv.org/abs/2108.12179)
