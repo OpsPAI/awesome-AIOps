@@ -51,6 +51,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Awesome Open Source] [Aiops Handbook](https://awesomeopensource.com/project/chenryn/aiops-handbook)
 
 ### Blogs & Tutorials & Magazines
+- [Grafana] [GrafanaCON: Grafana Observability Conference 2022](https://grafana.com/about/events/observabilitycon/2022/)
 - [Tsinghua University] [清华裴丹：AIOps落地的15条原则](https://mp.weixin.qq.com/s/Ov1gQlQ0mRpk58cNL_YlVg)
 - [Tsinghua University] [清华裴丹：AIOps效果落地最后一公里](https://mp.weixin.qq.com/s/VhaRfvjc839bAXBMfzv11g)
 - [Alibaba Cloud] [基于大数据的智能网络分析-齐天](https://developer.aliyun.com/article/590290)
