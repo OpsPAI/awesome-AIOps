@@ -99,6 +99,7 @@ A curated list of awesome academic researches and industrial materials about Art
 ## Papers
 
 ### Survey & Empirical Study
+- [CSUR '22] [Anomaly Detection and Failure Root Cause Analysis in (Micro) Service-Based Cloud Applications: A Survey](https://dl.acm.org/doi/full/10.1145/3501297)
 - [ASE '22] [Going through the Life Cycle of Faults in Clouds: Guidelines on Fault Handling](https://github.com/IntelligentDDS/Post-mortems-Analysis)
 - [arXiv '21] [Experience Report: Deep Learning-based System Log Analysis for Anomaly Detection](https://arxiv.org/abs/2107.05908)
 - [CSUR '21] [A Survey on Automated Log Analysis for Reliability Engineering](https://arxiv.org/abs/2009.07237)
