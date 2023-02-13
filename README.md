@@ -58,6 +58,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Tsinghua University] [清华裴丹：AIOps效果落地最后一公里](https://mp.weixin.qq.com/s/VhaRfvjc839bAXBMfzv11g)
 - [Moogsoft] [What is AIOps?](https://www.moogsoft.com/resources/aiops/guide/everything-aiops/)
 - [Microsoft] [Advancing Azure service quality with artificial intelligence: AIOps](https://azure.microsoft.com/en-us/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/)
+- [InfoQ] [2023，可观测性需求将迎来“爆发之年”？](https://mp.weixin.qq.com/s/6na952N3c5RzcopanZGs6w)
+- [Alibaba] [阿里云张建锋谈新型计算体系：云正在重构硬件、软件和终端世界](https://mp.weixin.qq.com/s/IQvurZ_9Vm0SufV1K0sK1A)
 
 ### Benchmarks
 - [Fudan] [Train Ticket (A Benchmark Microservice System)](https://github.com/FudanSELab/train-ticket)
@@ -140,6 +142,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Anomaly and Failure Detection
+- [ISSRE '22] [Share or Not Share? Towards the Practicability of Deep Models for Unsupervised Anomaly Detection in Modern Online Systems](https://ieeexplore.ieee.org/document/9978953) [[code](https://github.com/IntelligentDDS/Uni-AD)]
 - [ICSE '22] [Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching](https://arxiv.org/abs/2201.02944) [[code](https://github.com/OpsPAI/ADSketch)]
 - [KDD '19] [Time-Series Anomaly Detection Service at Microsoft](https://dl.acm.org/doi/10.1145/3292500.3330680)
 - [OSDI '18] [Capturing and Enhancing In Situ System Observability for Failure Detection](https://www.usenix.org/conference/osdi18/presentation/huang)
