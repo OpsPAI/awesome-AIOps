@@ -83,6 +83,7 @@ A curated list of awesome academic researches and industrial materials about Art
 ### Companies
 - [Datadog](https://www.datadoghq.com/): A monitoring and security platform for cloud applications
 - [必示 bizseer](https://www.bizseer.com/)
+- [博睿数据](https://www.bonree.com/)
 - [听云 TINGYUN](https://www.tingyun.com/lp.html): 端到端的全平台应用性能管理系统
 - [Loom Systems](https://www.loomsystems.com/)
 
