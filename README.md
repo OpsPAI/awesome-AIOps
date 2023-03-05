@@ -171,6 +171,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Node, Disk, and Storage
+- [FAST '23] [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.usenix.org/conference/fast23/presentation/lu)
 - [DSN '21] [General Feature Selection for Failure Prediction in Large-scale SSD Deployment](https://ieeexplore.ieee.org/document/9505157)
 - [TOSEM '20] [Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution](https://dl.acm.org/doi/10.1145/3385187)
 - [ICDCS '20] [Toward Adaptive Disk Failure Prediction via Stream Mining](https://ieeexplore.ieee.org/document/9355640)
