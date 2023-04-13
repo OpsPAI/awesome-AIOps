@@ -19,7 +19,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Knowledge Graph for AIOps](#knowledge-graph-for-aiops)
   - [Microservices and Serverless](#microservices-and-serverless)
   - [Dependency and Tracing](#dependency-and-tracing)
-  - [Detection and Localization of Anomaly/Failure](#detection-and-localization-of-anomaly---failure)
+  - [Detection and Localization of Anomaly/Failure](#detection-and-localization-of-anomaly/failure)
   - [Incident and Alarm Management](#incident-and-alarm-management)
   - [Node, Disk, and Storage](#node-disk-and-storage)
   - [VM Analysis and Management](#vm-analysis-and-management)
