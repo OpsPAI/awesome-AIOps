@@ -19,7 +19,7 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Knowledge Graph for AIOps](#knowledge-graph-for-aiops)
   - [Microservices and Serverless](#microservices-and-serverless)
   - [Dependency and Tracing](#dependency-and-tracing)
-  - [Anomaly and Failure Detection](#anomaly-and-failure-detection)
+  - [Detection and Localization of Anomaly/Failure](#detection-and-localization-of-anomaly--failure)
   - [Incident and Alarm Management](#incident-and-alarm-management)
   - [Node, Disk, and Storage](#node-disk-and-storage)
   - [VM Analysis and Management](#vm-analysis-and-management)
@@ -144,7 +144,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [HotNets '06] [Discovering Dependencies for Network Management](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/11/hotnets06.pdf)
 
 
-### Anomaly and Failure Detection
+### Detection and Localization of Anomaly/Failure
+- [ICSE '23] [CONAN: Diagnosing Batch Failures for Cloud Systems](http://windows-microsoft-en.com/research/uploads/prod/2022/12/Conan_ICSE23_CR.pdf)
 - [ISSRE '22] [Share or Not Share? Towards the Practicability of Deep Models for Unsupervised Anomaly Detection in Modern Online Systems](https://ieeexplore.ieee.org/document/9978953) [[code](https://github.com/IntelligentDDS/Uni-AD)]
 - [ICSE '22] [Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching](https://arxiv.org/abs/2201.02944) [[code](https://github.com/OpsPAI/ADSketch)]
 - [KDD '19] [Time-Series Anomaly Detection Service at Microsoft](https://dl.acm.org/doi/10.1145/3292500.3330680)
@@ -154,6 +155,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Incident and Alarm Management
+- [ICSE '23] [Incident-aware Duplicate Ticket Aggregation for Cloud Systems](https://arxiv.org/abs/2302.09520)
 - [SoCC '22] [How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service](https://dl.acm.org/doi/10.1145/3542929.3563482)
 - [DSN '22] [Characterizing and Mitigating Anti-patterns of Alerts in Industrial Cloud Systems](https://arxiv.org/abs/2204.09670)
 - [USENIX ATC '21] [Fighting the Fog of War: Automated Incident Detection for Cloud Systems](https://www.usenix.org/conference/atc21/presentation/li-liqun)
