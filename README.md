@@ -119,8 +119,9 @@ A curated list of awesome academic researches and industrial materials about Art
 - [arXiv '22] [Constructing Large-Scale Real-World Benchmark Datasets for AIOps](https://arxiv.org/abs/2208.03938)
 - [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
 
-### Large Language Models for IT Operations
+### (Large) Language Models for IT Operations
 - [arXiv '23] [Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models](https://arxiv.org/abs/2301.03797)
+- [SoCC19] [A System-Wide Debugging Assistant Powered by Natural Language Processing](https://dl.acm.org/doi/10.1145/3357223.3362701)
 
 ### Knowledge Graph for AIOps
 - [ICSE-SEIP '22] [Mining Root Cause Knowledge from Cloud Service Incident Investigations for AIOps](https://arxiv.org/abs/2204.11598)
