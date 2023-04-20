@@ -15,7 +15,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Papers](#papers)
   - [Survey & Empirical Study](#survey--empirical-study)
   - [Benchmarks](#benchmarks)
-  - [Large Language Models for IT Operations](#large-language-models-for-it-operations)
+  - [(Large) Language Models for IT Operations](#large-language-models-for-it-operations)
   - [Knowledge Graph for AIOps](#knowledge-graph-for-aiops)
   - [Microservices and Serverless](#microservices-and-serverless)
   - [Dependency and Tracing](#dependency-and-tracing)
