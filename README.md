@@ -62,8 +62,9 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Alibaba] [阿里云张建锋谈新型计算体系：云正在重构硬件、软件和终端世界](https://mp.weixin.qq.com/s/IQvurZ_9Vm0SufV1K0sK1A)
 
 ### Benchmarks
-- [Fudan] [Train Ticket (A Benchmark Microservice System)](https://github.com/FudanSELab/train-ticket)
-- [Weaveworks] [Sock Shop (A Microservices Demo Application)](https://microservices-demo.github.io/)
+- [Google Cloud] [Online Boutique (A microservices demo application)](https://github.com/GoogleCloudPlatform/microservices-demo)
+- [Fudan] [Train Ticket (A benchmark microservice system)](https://github.com/FudanSELab/train-ticket)
+- [Weaveworks] [Sock Shop (A microservices demo application)](https://microservices-demo.github.io/)
 
 ### Tools
 - [Log Analytics] [LogPAI](https://github.com/logpai)
