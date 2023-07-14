@@ -159,6 +159,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Incident and Alarm Management
+- [ATC '23] [AutoARTS: Taxonomy, Insights and Tools for Root Cause Labelling of Incidents in Microsoft Azure](https://www.usenix.org/conference/atc23/presentation/dogga)
 - [ICSE '23] [Incident-aware Duplicate Ticket Aggregation for Cloud Systems](https://arxiv.org/abs/2302.09520)
 - [SoCC '22] [How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service](https://dl.acm.org/doi/10.1145/3542929.3563482)
 - [DSN '22] [Characterizing and Mitigating Anti-patterns of Alerts in Industrial Cloud Systems](https://arxiv.org/abs/2204.09670)
