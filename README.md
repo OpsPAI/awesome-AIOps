@@ -116,7 +116,9 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ISSRE '16] [Experience Report: System Log Analysis for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/7774521)
 - [ASE '13] [Software analytics for incident management of online services: An experience report](https://ieeexplore.ieee.org/document/6693105)
 
-
+### Root Cause Analysis
+- [CIKMS 21'] [CloudRCA: A Root Cause Analysis Framework for Cloud Computing Platforms](https://dl.acm.org/doi/pdf/10.1145/3459637.3481903)
+  
 ### Benchmarks
 - [arXiv '22] [Constructing Large-Scale Real-World Benchmark Datasets for AIOps](https://arxiv.org/abs/2208.03938)
 - [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
