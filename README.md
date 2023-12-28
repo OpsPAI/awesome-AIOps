@@ -121,6 +121,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [ASPLOS '19] [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](https://dl.acm.org/doi/10.1145/3297858.3304013)
 
 ### (Large) Language Models for IT Operations
+- [arXiv '23] [OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models](https://arxiv.org/abs/2310.07637)
 - [arXiv '23] [Xpert: Empowering Incident Management with Query Recommendations via Large Language Models](https://arxiv.org/abs/2312.11988)
 - [arXiv '23] [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/abs/2307.05950)
 - [arXiv '23] [Assess and Summarize: Improve Outage Understanding with Large Language Models](https://arxiv.org/pdf/2305.18084.pdf)
