@@ -43,7 +43,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 ## Industrial Materials
 ### Competitions
-- [AIOps Challenge] [A series of AIOps competitions hosted by Tsinghua University](http://iops.ai/)
+- [AIOps Challenge] [A series of AIOps competitions hosted by Tsinghua University](https://competition.aiops-challenge.com/home/competition)
 - [PAKDD2020] [Alibaba AIOps Competition](https://tianchi.aliyun.com/competition/entrance/231775/introduction?lang=en-us)
 
 ### White Papers
