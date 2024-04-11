@@ -19,7 +19,8 @@ A curated list of awesome academic researches and industrial materials about Art
   - [Knowledge Graph for AIOps](#knowledge-graph-for-aiops)
   - [Microservices and Serverless](#microservices-and-serverless)
   - [Dependency and Tracing](#dependency-and-tracing)
-  - [Detection and Localization of Anomaly/Failure](#detection-and-localization-of-anomalyfailure)
+  - [Anomaly/Failure Detection](#anomalyfailure-detection)
+  - [Root Cause Analysis](#root-cause-analysis)
   - [Incident and Alarm Management](#incident-and-alarm-management)
   - [Node, Disk, and Storage](#node-disk-and-storage)
   - [VM Analysis and Management](#vm-analysis-and-management)
@@ -160,15 +161,19 @@ A curated list of awesome academic researches and industrial materials about Art
 - [HotNets '06] [Discovering Dependencies for Network Management](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/11/hotnets06.pdf)
 
 
-### Detection and Localization of Anomaly/Failure
+### Anomaly/Failure Detection
 - [ICSE '23] [CONAN: Diagnosing Batch Failures for Cloud Systems](http://windows-microsoft-en.com/research/uploads/prod/2022/12/Conan_ICSE23_CR.pdf)
 - [ISSRE '22] [Share or Not Share? Towards the Practicability of Deep Models for Unsupervised Anomaly Detection in Modern Online Systems](https://ieeexplore.ieee.org/document/9978953) [[code](https://github.com/IntelligentDDS/Uni-AD)]
 - [ICSE '22] [Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching](https://arxiv.org/abs/2201.02944) [[code](https://github.com/OpsPAI/ADSketch)]
 - [KDD '19] [Time-Series Anomaly Detection Service at Microsoft](https://dl.acm.org/doi/10.1145/3292500.3330680)
-- [OSDI '18] [Capturing and Enhancing In Situ System Observability for Failure Detection](https://www.usenix.org/conference/osdi18/presentation/huang)
 - [ESEC/FSE '18] [Identifying Impactful Service System Problems via Log Analysis](https://dl.acm.org/doi/10.1145/3236024.3236083)
 - [CCS '17] [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://dl.acm.org/doi/10.1145/3133956.3134015)
 
+
+### Root Cause Analysis
+- [SIGCOMM '23] [Murphy: Performance Diagnosis of Distributed Cloud Applications](https://dl.acm.org/doi/abs/10.1145/3603269.3604877)
+- [FSE '23] [Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-modal Observability Data](https://dl.acm.org/doi/10.1145/3611643.3616249)
+- [OSDI '18] [Capturing and Enhancing In Situ System Observability for Failure Detection](https://www.usenix.org/conference/osdi18/presentation/huang)
 
 ### Incident and Alarm Management
 - [ATC '23] [AutoARTS: Taxonomy, Insights and Tools for Root Cause Labelling of Incidents in Microsoft Azure](https://www.usenix.org/conference/atc23/presentation/dogga)
