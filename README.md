@@ -228,6 +228,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Baidu] [SMART Dataset of PAKDD CUP 2020](https://pan.baidu.com/share/link?shareid=189977&uk=4278294944#list/path=%2FS.M.A.R.T.dataset)
 - [Alibaba] [SSD SMART logs and failure data](https://github.com/alibaba-edu/dcbrain/tree/master/ssd_open_data)
 - [Alibaba] [Alibaba Cluster Trace Program](https://github.com/alibaba/clusterdata)
+- [CloudWise] [GAIA Dataset](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
 
 
 ## Others
