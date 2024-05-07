@@ -230,6 +230,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Alibaba] [SSD SMART logs and failure data](https://github.com/alibaba-edu/dcbrain/tree/master/ssd_open_data)
 - [Alibaba] [Alibaba Cluster Trace Program](https://github.com/alibaba/clusterdata)
 - [CloudWise] [GAIA Dataset](https://github.com/CloudWise-OpenSource/GAIA-DataSet)
+- [Huawei Cloud] [Serverless traces](https://github.com/sir-lab/data-release?tab=readme-ov-file)
 
 
 ## Others
