@@ -92,7 +92,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [博睿数据](https://www.bonree.com/)
 - [听云 TINGYUN](https://www.tingyun.com/lp.html): 端到端的全平台应用性能管理系统
 - [Loom Systems](https://www.loomsystems.com/)
-
+- [Wallaroo.AI](https://wallaroo.ai/): Production AI platform to deploy, manage, and observe any model at scale across any enviroemnt from cloud to edge. 
 
 ## Academic Materials
 
