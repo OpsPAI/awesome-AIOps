@@ -108,6 +108,7 @@ A curated list of awesome academic researches and industrial materials about Art
 ## Papers
 
 ### Survey & Empirical Study
+- [arXiv '24] [A Survey on Failure Analysis and Fault Injection in AI Systems](https://arxiv.org/abs/2407.00125)
 - [arXiv '23] [AI for IT Operations (AIOps) on Cloud Platforms: Reviews, Opportunities and Challenges](https://arxiv.org/abs/2304.04661)
 - [CSUR '22] [Anomaly Detection and Failure Root Cause Analysis in (Micro) Service-Based Cloud Applications: A Survey](https://dl.acm.org/doi/full/10.1145/3501297)
 - [ASE '22] [Going through the Life Cycle of Faults in Clouds: Guidelines on Fault Handling](https://github.com/IntelligentDDS/Post-mortems-Analysis)
