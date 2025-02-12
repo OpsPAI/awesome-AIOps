@@ -165,6 +165,7 @@ A curated list of awesome academic researches and industrial materials about Art
 
 
 ### Anomaly/Failure Detection
+- [POMACS '24] [The Tale of Errors in Microservices](https://dl.acm.org/doi/pdf/10.1145/3700436) [[data](https://zenodo.org/records/13947828)]
 - [ICSE '23] [CONAN: Diagnosing Batch Failures for Cloud Systems](http://windows-microsoft-en.com/research/uploads/prod/2022/12/Conan_ICSE23_CR.pdf)
 - [ISSRE '22] [Share or Not Share? Towards the Practicability of Deep Models for Unsupervised Anomaly Detection in Modern Online Systems](https://ieeexplore.ieee.org/document/9978953) [[code](https://github.com/IntelligentDDS/Uni-AD)]
 - [ICSE '22] [Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching](https://arxiv.org/abs/2201.02944) [[code](https://github.com/OpsPAI/ADSketch)]
