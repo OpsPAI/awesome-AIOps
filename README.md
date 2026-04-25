@@ -84,6 +84,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Serverless App Dev. Framework] [AWS Serverless Application Model (AWS SAM)](https://github.com/aws/serverless-application-model)
 - [Performance Testing Tool] [Locust](https://locust.io/)
 - [Alibaba Java Diagnostic Tool] [Arthas](https://arthas.aliyun.com/)
+- [Multi-Cluster Dashboard] [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with anomaly detection, automated diagnostics, and real-time observability (CNCF Sandbox).
 
 ### Companies
 - [Datadog](https://www.datadoghq.com/): A monitoring and security platform for cloud applications
