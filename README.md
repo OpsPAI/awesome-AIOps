@@ -93,6 +93,8 @@ A curated list of awesome academic researches and industrial materials about Art
 - [听云 TINGYUN](https://www.tingyun.com/lp.html): 端到端的全平台应用性能管理系统
 - [Loom Systems](https://www.loomsystems.com/)
 - [Keep](https://www.keephq.dev): Open-source alert management and AIOps platform
+- [Middleware](https://middleware.io/): A full-stack monitoring and observability platform
+
 
 
 ## Academic Materials
