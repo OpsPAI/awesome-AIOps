@@ -84,6 +84,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Serverless App Dev. Framework] [AWS Serverless Application Model (AWS SAM)](https://github.com/aws/serverless-application-model)
 - [Performance Testing Tool] [Locust](https://locust.io/)
 - [Alibaba Java Diagnostic Tool] [Arthas](https://arthas.aliyun.com/)
+- [AI Agent Trust Scoring] [TWZRD Agent Intel](https://intel.twzrd.xyz) — Verify autonomous AI deployment agent wallet identity before granting x402 micropayment access. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Companies
 - [Datadog](https://www.datadoghq.com/): A monitoring and security platform for cloud applications
