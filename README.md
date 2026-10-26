@@ -61,6 +61,7 @@ A curated list of awesome academic researches and industrial materials about Art
 - [Grafana] [GrafanaCON: Grafana Observability Conference 2022](https://grafana.com/about/events/observabilitycon/2022/)
 - [InfoQ] [2023，可观测性需求将迎来“爆发之年”？](https://mp.weixin.qq.com/s/6na952N3c5RzcopanZGs6w)
 - [Alibaba] [阿里云张建锋谈新型计算体系：云正在重构硬件、软件和终端世界](https://mp.weixin.qq.com/s/IQvurZ_9Vm0SufV1K0sK1A)
+- [AIAgentSearch.ai] [AIOps Platforms and Tools Compared: What They Do and How to Choose (2026)](https://aiagentsearch.ai/aiops-platforms-and-tools.html)
 
 ### Benchmarks
 - [Cornell] [DeathStarBench (An open-source benchmark suite for cloud microservices)](https://github.com/delimitrou/DeathStarBench/tree/master)
